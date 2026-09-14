@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interests are Long-term memory of LLM and Parameter-Efficient Fine-Tuning (PEFT) methods. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://xhx.github.io/).
+I'm a third-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interests include efficient learning, long-term memory, and reasoning for foundation models. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://xhx.github.io/).
 
 You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
@@ -15,13 +15,14 @@ You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
 Recent News
 ======
+- \[Jun 2026\] Joined XPENG as a Research Scientist Intern on the VLA Large Model Team!
 - \[Nov 2025\] One paper is accepted at AAAI 2026!
 - \[Jun 2025\] One paper is accepted at ICCV 2025!
 - \[Apr 2025\] One paper is accepted at IEEE Access!
 - \[Sep 2024\] Excited to start my PhD program at UCI! Looking forward to exploring new challenges and opportunities in my research journey.
-- \[Jun 2024\] Successfully get my Bachelor's Degree at UCI!
+- \[Jun 2024\] Successfully got my Bachelor's Degree at UCI!
 - \[Apr 2024\] One paper is accepted at BMC Neuroscience!
-- \[Sep 2023\] I complete the ICS Honors Program!
+- \[Sep 2023\] I completed the ICS Honors Program!
 - \[Jun 2023\] One paper is accepted at MICCAI 2023!
 
 Publications and Preprints
