@@ -34,7 +34,7 @@ Publications and Preprints
   <div style="flex: 60%;">
     <strong>Reason Slowly, Drive Fast: Distilling Explicit Reasoning into Latent Tokens for End-to-End Driving</strong><br>
     <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://www.linkedin.com/in/chenxilin-ml/>Chenxi Lin</a>, <a href="https://qjizhi.github.io/">Feng Qiao</a>, Wei Liu, Yikai Wang, <a href="https://xhx.github.io/">Xiaohui Xie</a>, <a href="https://www.linkedin.com/in/xianming-liu-07264326/">Xianming Liu</a>, <a href="https://hangzhang.org/">Hang Zhang</a><br>
-    <em>, 2026</em><br>
+    <em>arXiv, 2026</em><br>
   </div>
 </div>
 
