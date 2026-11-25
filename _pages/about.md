@@ -29,11 +29,22 @@ Publications and Preprints
 ======
 <div style="display: flex; margin-bottom: 20px;">
   <div style="flex: 40%; padding-right: 20px;">
+    <img src="../assets/RIDE.png" alt="Paper 1" style="width: 100%;">
+  </div>
+  <div style="flex: 60%;">
+    <strong>Reason Slowly, Drive Fast: Distilling Explicit Reasoning into Latent Tokens for End-to-End Driving</strong><br>
+    <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://www.linkedin.com/in/chenxilin-ml/>Chenxi Lin</a>, <a href="https://qjizhi.github.io/">Feng Qiao</a>, Wei Liu, Yikai Wang, <a href="https://xhx.github.io/">Xiaohui Xie</a>, <a href="https://www.linkedin.com/in/xianming-liu-07264326/">Xianming Liu</a>, <a href="https://hangzhang.org/">Hang Zhang</a><br>
+    <em>, 2026</em><br>
+  </div>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
+  <div style="flex: 40%; padding-right: 20px;">
     <img src="../assets/oplora.png" alt="Paper 1" style="width: 100%;">
   </div>
   <div style="flex: 60%;">
     <strong>OPLoRA: Orthogonal Projection LoRA Prevents Catastrophic Forgetting during Parameter-Efficient Fine-Tuning</strong><br>
-    <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
+    <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://xhx.github.io/">Xiaohui Xie</a><br>
     <em>AAAI, 2026</em><br>
     <a href="https://arxiv.org/abs/2510.13003">Paper</a>
   </div>
@@ -45,7 +56,7 @@ Publications and Preprints
   </div>
   <div style="flex: 60%;">
     <strong>Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and Inverse Rendering</strong><br>
-    <a href="https://siwensun.github.io/">Shanlin Sun</a>,<a href="https://yfwang.me/">Yifan Wang</a>, Hanwen Zhang, <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, Qin Ren, Ruogu Fang, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a>, <a href="https://chenyuyou.me/">Chenyu You</a><br>
+    <a href="https://siwensun.github.io/">Shanlin Sun</a>,<a href="https://yfwang.me/">Yifan Wang</a>, Hanwen Zhang, <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, Qin Ren, Ruogu Fang, <a href="https://xhx.github.io/">Xiaohui Xie</a>, <a href="https://chenyuyou.me/">Chenyu You</a><br>
     <em>ICCV, 2025</em><br>
     <a href="https://siwensun.github.io/ouroboros-project/">Webpage</a> / <a href="https://arxiv.org/abs/2508.14461">Paper</a> / <a href="https://github.com/Y-Research-SBU/Ouroboros">Code</a>
   </div>
@@ -57,7 +68,7 @@ Publications and Preprints
   </div>
   <div style="flex: 60%;">
     <strong>Light Field Diffusion for Single-View Novel View Synthesis</strong><br>
-    <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~haoyum3">Haoyu Ma</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://scholar.google.com/citations?user=2X3D1-4AAAAJ&hl=en">Hao Tang</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
+    <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~haoyum3">Haoyu Ma</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://scholar.google.com/citations?user=2X3D1-4AAAAJ&hl=en">Hao Tang</a>, <a href="https://xhx.github.io/">Xiaohui Xie</a><br>
     <em>IEEE Access, 2025</em><br>
     <a href="https://lightfielddiffusion.github.io/">Webpage</a> / <a href="https://ieeexplore.ieee.org/document/10973615">Paper</a>
   </div>
@@ -70,7 +81,7 @@ Publications and Preprints
   <div style="flex: 60%;">
     <strong>MedGen3D: A Deep Generative Framework for Paired 3D Image and Mask Generation</strong><br>
     <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://chenyuyou.me/">Chenyu You</a>, 
-    <a href="https://khosravipooya.com/">Pooya Khosravi</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=-feNPnkAAAAJ&hl=en">Xiangyi Yan</a>, <a href="https://medicine.yale.edu/profile/james-duncan/">James Duncan</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
+    <a href="https://khosravipooya.com/">Pooya Khosravi</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=-feNPnkAAAAJ&hl=en">Xiangyi Yan</a>, <a href="https://medicine.yale.edu/profile/james-duncan/">James Duncan</a>, <a href="https://xhx.github.io/">Xiaohui Xie</a><br>
     <em>MICCAI, 2023</em><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-43907-0_72">Paper</a>
   </div>
